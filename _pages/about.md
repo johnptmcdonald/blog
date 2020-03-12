@@ -4,10 +4,4 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
-
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
-
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+My name is John McDonald, and I am currently a senior software engineering instructor at Fullstack Academy in New York City. I build things with Javascript, React, Redux, Angular, Node, Express, Python, and PyTorch. 
