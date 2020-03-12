@@ -38,7 +38,7 @@ For the next two iterations I had to move to visual representations of the probl
 ## What does any of this tell us about human cognition?
 This project has made it abundantly clear to me how holistic and multi-layered the human method of reasoning is. The pac-man problem is an excellent example - humans do not consider rotations, reflections, black pixel ratios or overlap, or indeed any transformations between the figures. 
 
-![]({{ site.baseurl }}/images/pacman_RPM.png "The 'pacman' problem")
+![]({{ site.baseurl }}/images/pacmac_RPM.png "The 'pacman' problem")
 
 Rather, the problem is solved because the correct answer produces the corners of a square that lies between A, B, C, and #. The figures together necessitate answer 3 as the correct response because it completes the gestalt. My agent does not consider anything greater than its current area of focus (a single figure and its immediate neighbor). Thus, the human reasons at multiple levels of abstraction, and has multiple strategies for solving RPMs. These strategies can be based on simple transformations, arithmetic (number of points on an object), semantics, or any other number of strategies.
 
