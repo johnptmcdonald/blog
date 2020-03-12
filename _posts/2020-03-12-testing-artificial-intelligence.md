@@ -2,6 +2,7 @@
 toc: true
 layout: post
 description: Building a python agent to pass IQ tests.
+image: images/upanddown_RPM.png
 categories: [AI, python]
 ---
 
