@@ -12,7 +12,7 @@ In the summer of 2016 I started my Master's degree in computer science. To be ho
 
 The idea behind using Raven's Progressive Matrices (RPM) is that it is a great test of *fluid intelligence* - the ability to generalize and reason abstractly. A lot of research in deep learning currently focuses solely on identifying objects (computer vision), but this is only useful because there is normally a human doing the reasoning after the neural network has done the recognition. To build a generalized intelligence we need to consider how to architect software to perform visual reasoning.
 
-The project was performed in three iterations, with the first iteration only needing to pass 2x2 RPMs 
+The project was performed in three iterations, with the first iteration only needing to pass 2x2 RPMs. 
 
 ## Verbal reasoning 
 
