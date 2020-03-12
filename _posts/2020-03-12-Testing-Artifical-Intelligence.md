@@ -1,8 +1,8 @@
 ---
 toc: true
 layout: post
-description: A minimal example of using markdown with fastpages.
-categories: [markdown]
+description: Building a python agent to pass IQ tests.
+categories: [AI, python]
 ---
 
 # Writing Code to Pass IQ tests
