@@ -5,8 +5,6 @@ description: Building a python agent to pass IQ tests.
 categories: [AI, python]
 ---
 
-# Writing Code to Pass IQ tests
-
 ## Background
 In the summer of 2016 I started my Master's degree in computer science. To be honest, I really didn't know what I had gotten myself into. Luckily I started my degree with one of the top rated courses, *Knowledge Based Artifical Intelligence - Cognitive Systems*, run by the talented David Joyner. Throughout the semester I designed and built software that passed the [Raven's Progressive Matrices](https://en.wikipedia.org/wiki/Raven%27s_Progressive_Matrices). 
 
@@ -58,6 +56,8 @@ I found the last problem (shown below) most interesting.
 
 ![]({{ site.baseurl }}/images/upanddown_RPM.png "An interesting problem")
 
-I initially described its solution to myself by giving each object a meaning - an up triangle represented +1, and a down triangle represented -1. Simple addition and subtraction then gave the answer. I initially thought that there was no way my agent would be able to pick the answer. I only consider 'up' to be positive because that’s the way humans commonly represent numbers, and I only consider the triangle to be pointing in a certain way because I am used to seeing directions and arrows drawn like this. My agent has no background semantic knowledge to apply. I was then surprised to see my agent get the right answer using only pixel based heuristics. This pretty much summed up the series of projects in this course for me - the ability of humans to very quickly use different strategies to see patterns and apply meaning to things, and the ability of AI agents to achieve complexity from very simple precepts. Clearly, the agent does not understand the meaning I have applied to the figures, and yet it achieves the same result from very simple heuristics. 
+I initially described its solution to myself by giving each object a meaning - an up triangle represented +1, and a down triangle represented -1. Simple addition and subtraction then gave the answer. I initially thought that there was no way my agent would be able to pick the answer. I only consider 'up' to be positive because that’s the way humans commonly represent numbers, and I only consider the triangle to be pointing in a certain way because I am used to seeing directions and arrows drawn like this. My agent has no background semantic knowledge to apply. I was then surprised to see my agent get the right answer using only pixel based heuristics. 
 
+This pretty much summed up the series of projects in this course for me - the ability of humans to very quickly use different strategies to see patterns and apply meaning to things, and the ability of AI agents to achieve complexity from very simple precepts. Clearly, the agent does not understand the meaning I have applied to the figures, and yet it achieves the same result from very simple heuristics. 
 
+Read the full project reflection [here](https://docs.google.com/document/d/12R_gZ_aR3q_Osapt9FlaX86zAZsefSVR6jQTn7EdUbA/edit?usp=sharing).
